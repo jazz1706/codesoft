@@ -1,0 +1,49 @@
+.body {
+    background-image: url('https://img.freepik.com/free-vector/background-knowledge-day-celebration_52683-131709.jpg?w=996&t=st=1707169095~exp=1707169695~hmac=1e08cf275609cbf299ee628a91e8fb5b2e58e87311644bca7c606938cd4e0114');
+    background-size: cover; 
+    background-position: center; 
+
+    background-repeat: no-repeat;
+}
+
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 21px;
+    border: 5px solid #422446;
+    font-size:34px;
+    height: 65px;
+    width: 456px;
+}
+
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background: #ac78ac;
+    color: aqua;
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+}
+
+.calculator{
+    border: 4px solid #691362;
+    background-color: #99a0ff;
+    padding: 23px;
+    margin-top: 2.5%;
+    border-radius: 53px;
+    display: inline-block;
+    
+}
+
+h1{
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+}
